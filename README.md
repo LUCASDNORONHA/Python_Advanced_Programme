@@ -6,7 +6,6 @@
 
 **Disciplina**: Programação de Computadores (Avançada)
 
-> ## *O conhecimento deve ser compartilhado.*
 
 ## Informações Gerais Sobre o Repositório:
 
